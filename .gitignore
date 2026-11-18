@@ -1,0 +1,9 @@
+# Configuration locale de base de données
+# utils/settings.php (garder un exemple settings.example.php)
+
+# Fichiers systèmes et éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
