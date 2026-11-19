@@ -1,8 +1,5 @@
 <?php
-/*
- * Page d'ajout d'un nouveau membre
- * Auteur : Tom Vernier-Fétu (BTS SIO SLAM)
- */
+// Ajout d'un nouveau membre
 
 include("structure/header.php");
 include("utils/bdd.php");
