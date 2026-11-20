@@ -1,7 +1,7 @@
 <?php
     /*
      * Page de visualisation des membres du club
-     * Auteur : Tom Vernier-Fétu (BTS SIO SLAM)
+     * Auteur : Tom Vernier-Fétu
      */
     include("structure/header.php");
     include("utils/bdd.php");

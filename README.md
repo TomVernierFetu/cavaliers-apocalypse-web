@@ -2,7 +2,7 @@
 
 Plateforme web dynamique développée pour la gestion et la valorisation du club d'échecs associatif **Les Cavaliers de l'Apocalypse** (fondé en 1994 et affilié FFE).
 
-Projet réalisé dans le cadre de ma formation en développement logiciel (BTS SIO SLAM).
+Projet d'application web dynamique développé avec PHP 8, MySQL et requêtes sécurisées PDO.
 
 ---
 
